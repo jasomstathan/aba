@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Temp
+TMP/
+
+# Windows junk
+Thumbs.db
+
+# Output data (not code)
+D:===国聘===
+D:===每日资讯===
+*.zip
+*.docx
+*.pdf
